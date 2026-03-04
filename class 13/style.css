@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    border: 1px solid black;
+    width: 50%;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.inputContainer input{
+    width: 100%;
+    padding: 8px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.optionContainer table{
+    width: 100%;
+    margin-top: 20px;
+}
+.optionContainer table td{
+    text-align: center;
+    padding: 8px;
+    cursor: pointer;
+}
+
